@@ -15,7 +15,7 @@ A **developer with 12 years of experience** in projects in the web, mobile and d
 
 ## 💻 Back-end Technologies
   ![Spring Boot](https://img.shields.io/badge/Spring_Boot-black?style=for-the-badge&logo=springboot)
-  ![Quarkus](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)
+  ![Quarkus](https://img.shields.io/badge/quarkus-black?style=for-the-badge&logo=openjdk)
   ![Slim Framework](https://img.shields.io/badge/Slim_Framework-black?style=for-the-badge&logo=php)
   ![Flight](https://img.shields.io/badge/Flight-black?style=for-the-badge&logo=php)
   ![Laravel](https://img.shields.io/badge/Laravel-black?style=for-the-badge&logo=Laravel)
