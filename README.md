@@ -2,7 +2,7 @@
 
 I'm Daniel Silva Marcelino, a Senior Full Stack Developer.
 
-A **developer with 12 years of experience** in projects in the web, mobile and desktop domains. Expertise in creating innovative and high-quality solutions, focused on optimizing processes and generating value for customers. Ability to work with various technologies and frameworks, always seeking excellence and end-user satisfaction. Experience in leading projects, collaborating with cross-functional teams and implementing best development practices.
+A **developer with 13 years of experience** in projects in the web, mobile and desktop domains. Expertise in creating innovative and high-quality solutions, focused on optimizing processes and generating value for customers. Ability to work with various technologies and frameworks, always seeking excellence and end-user satisfaction. Experience in leading projects, collaborating with cross-functional teams and implementing best development practices.
 
 ## 💻 Languages
   ![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)
